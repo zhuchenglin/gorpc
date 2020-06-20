@@ -1,2 +1,2 @@
 # gorpc
-学习ing
+学习Golang 中RPC 的使用  ing
